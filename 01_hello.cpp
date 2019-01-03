@@ -1,17 +1,11 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
+/*write a C++ program that outputs the following statement:
+*** "Hello world, I am ready for C++"
+*/
 
 #include <iostream>
 
-/* using namespace std; */
-
 int main()
 {
-    std::cout<<"Hello World";
+    std::cout<<"Hello world, I am ready for C++";
     return 0;
 }
