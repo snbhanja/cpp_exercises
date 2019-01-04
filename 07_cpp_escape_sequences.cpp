@@ -9,3 +9,16 @@ int main()
     std::cout<<"\n\nThe text with tabs\n";
     std::cout<<"Ints\t"<<"Floats\t"<<"Doubles"<< "\n";
 }
+
+
+/* The output as below,
+The text without any formating
+IntsFloatsDoubles
+
+The text with setw(15)
+Ints         Floats        Doubles
+
+
+The text with tabs
+Ints    Floats    Doubles
+*/
