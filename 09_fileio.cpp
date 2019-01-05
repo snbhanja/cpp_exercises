@@ -33,3 +33,13 @@ int main () {
 
     return 0;
 }
+
+
+/*
+The contents of input.txt as below,
+Read and write to this file. 
+
+What am I doing here?
+
+This is not a good example of a file
+*/
