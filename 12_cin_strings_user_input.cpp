@@ -41,3 +41,15 @@ int main()
     std::cout<<"\t\t"<<phoneNo2<<"\n";    
     return 0;
 }
+
+
+/* The output
+Imogene Penelope Freely
+         2343 South View Road
+         (408)435-3221
+
+
+Sandy Beaches
+         1123 Pebble Creek Road
+         (408)546-5432
+*/
