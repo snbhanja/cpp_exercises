@@ -36,3 +36,24 @@ int main()
     std::cout << "Average = " << average << "\n";
     return 0;
 }
+
+/*The output as below,
+Enter a number: 123
+Enter a number: 2
+Enter a number: 34
+Enter a number: 6
+Enter a number: 57
+Enter a number: 9
+Enter a number: 876
+Enter a number: 90
+Enter a number: 11
+Enter a number: 23
+Enter a number: 876
+Enter a number: 4
+Enter a number: 13
+Enter a number: 87
+Enter a number: 66
+Maximum number = 876
+Minimum number = 2
+Average = 151
+*/
