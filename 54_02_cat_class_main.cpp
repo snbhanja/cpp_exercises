@@ -26,3 +26,12 @@ int main()
     cout<<cat2.getName()<<" "<<cat2.getBreed()<<" "<<cat2.getAge();
     return 0;
 }
+
+
+/*
+Kimmy calico 4
+Bobby main coon 1
+
+Kimmy calico 4
+Bobby main coon 1
+*/
