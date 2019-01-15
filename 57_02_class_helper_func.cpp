@@ -22,3 +22,10 @@ int main()
     cout<<"avg = "<<s1.getAvg();
     return 0;
 }
+
+
+
+/*Output:-
+3232
+85 80 98 65 90 avg = 83.6
+*/
