@@ -2,7 +2,7 @@
 
 /*Goal: more practice with classes*/
 
-#include "main.hpp"
+#include "59_01_claas_array.hpp"
 
 int main()
 {
