@@ -1,6 +1,6 @@
 /*Goal: learn about overloading constructors*/
 
-#include "main.hpp"
+#include "67_01_overloading_constructor.hpp"
 
 int main()
 {
