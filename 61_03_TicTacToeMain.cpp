@@ -21,8 +21,8 @@ main.cpp
 
 */
 
-#include "TicTacToeClasses.cpp"
-#include "TicTacToeFunctions.cpp"
+#include "61_01_TicTacToeClasses.cpp"
+#include "61_02_TicTacToeFunctions.cpp"
 
 int main()
 {
