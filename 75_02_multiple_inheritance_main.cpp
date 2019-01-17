@@ -13,3 +13,9 @@ int main()
     cout<<t1.getSupervisor()<<" "<<t1.getId()<<" "<<t1.getTitle();
     return 0;
 }
+
+
+/*
+Dr. Caohuu 55555 Adjunct Prof.
+
+*/
