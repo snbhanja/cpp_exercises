@@ -33,3 +33,10 @@ T findSmaller(T  input1,T  input2)
     else
         return input2;
 }
+
+/*
+Integers compared: 54
+Floats compared: 7.8
+Chars compared: f
+Strings compared: Bots are fun
+*/
