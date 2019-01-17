@@ -21,3 +21,8 @@ int main()
     cout<<gs1.getId()<<" "<<gs1.getDegree();
     return 0;
 }
+
+
+/*
+123456789 BSEE
+*/
